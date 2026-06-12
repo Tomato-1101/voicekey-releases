@@ -3,7 +3,7 @@
 音声入力アプリ voicekey の無料ベータ版の配布リポジトリです。
 ベータテストへのご協力ありがとうございます。
 
-**ダウンロードページ: https://tomato-1101.github.io/voicekey-releases/**
+**ダウンロードページ: https://voicekey.vercel.app**
 （テスターの方は上のページからどうぞ。以下は同じ内容のテキスト版です）
 
 ## ダウンロード
